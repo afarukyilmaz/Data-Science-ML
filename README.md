@@ -1,6 +1,12 @@
-# Data-Science-ML
+# Data-Science-ML Uygulamaları
 
-**NLP-Sherlock**
+
+
+
+#Doğal Dil İşleme
+
+**Sherlock**
+
 Bu çalışmada gutenberg.com sitesinden aldığım sherlock kitabının NLP yöntemleri kullanarak analizi ve kümelemesini içeren bir çalışma yaptım.
 Çalışmamda R programlama dili kullandım. Kullandığım kütüphaneler ise şu şekilde:
 

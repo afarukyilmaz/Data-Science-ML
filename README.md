@@ -1,5 +1,5 @@
 # Data-Science-ML
-** NLP -Sherlock **
+**NLP -Sherlock**
 Bu çalışmada gutenberg.com sitesinden aldığım sherlock kitabının NLP yöntemleri kullanarak analizi ve kümelemesini içeren bir çalışma yaptım.
 Çalışmamda R programlama dili kullandım. Kullandığım kütüphaneler ise şu şekilde:
 
